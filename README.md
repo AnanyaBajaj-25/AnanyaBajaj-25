@@ -25,16 +25,16 @@ I thrive on solving complex, open-ended data engineering and artificial intellig
 
 ### 📂 Featured Systems & Analytics Projects
 
-#### 🤖 [AI-Powered Travel Insight Generator](YOUR_GITHUB_LINK_HERE)
+#### 🤖 [AI-Powered Travel Insight Generator](https://github.com/AnanyaBajaj-25/Traveler-Insight-CLI)
 * **Stack:** `Python` | `DSPy` | `LLMs` | `Data Pipelines` | `APIs`
 * Built an end-to-end programmatic text generation system using custom DSPy signatures and the Wikipedia API. Implemented multi-step LLM orchestration and parallel processing pipelines to systematically handle context composition, API failures, and structural disambiguation bottlenecks.
 
-#### 📊 [Spotify Audio Features Analysis](YOUR_GITHUB_LINK_HERE)
+#### 📊 [Spotify Audio Features Analysis](https://github.com/AnanyaBajaj-25/DSC80-Spotify-project)
 * **Stack:** `Python` | `Pandas` | `Scikit-learn` | `Statistical Testing` | `Random Forest`
 * Cleaned and aggregated a custom dataset of 5,500+ tracks using the Spotify Web API. Engineered robust feature sets, conducted permutation-based hypothesis testing ($p < 0.001$), optimized an ensemble Random Forest classifier via `GridSearchCV`, and executed algorithmic fairness testing to measure cross-group precision disparity ($p = 0.008$).
 
 ---
 
 ### 📫 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/ananya-bajaj](https://linkedin.com/in/ananya-bajaj)
+* 💼 **LinkedIn:** [https://linkedin.com/in/ananya-bajaj](https://www.linkedin.com/in/ananya-bajaj-37268b325/)
 * 📧 **Email:** ananyabajaj280@gmail.com
