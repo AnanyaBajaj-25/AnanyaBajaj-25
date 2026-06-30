@@ -1,6 +1,6 @@
 # Hi there, I'm Ananya! 👋
 
-I am a **Data Science undergraduate student at UC San Diego** (Graduating June 2028). Check out my project! 
+I am a **Data Science undergraduate student at UC San Diego** (Graduating June 2028). Check out my projects! 
 
 I love to paint, go to the beach, and listen to live music.
 
